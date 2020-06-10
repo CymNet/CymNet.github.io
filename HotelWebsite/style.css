@@ -1,0 +1,39 @@
+body {
+	background-color: #000;
+}
+
+.container {
+	margin: 0 auto;
+	width: 100%;
+	max-width: 1280px;
+	background-color: #FF0;
+	height: 669px;
+	background-image: url("img/background-turtle-1280x669.jpg");
+}
+
+#header {
+	width: 100%;
+	background-color: #000;
+	background-color: rgba(0,0,0,0.4);
+	height: 118px;
+	text-align: center;
+}
+
+#headerTop {
+	width: 996px;
+	height: 53px;
+	border-bottom: solid #999 3px;
+	margin: 0 auto;
+}
+
+#headerBottom {
+	width: 996px;
+}
+
+#logo {
+	float: left;
+}
+
+#nav {
+	float: right;
+}
